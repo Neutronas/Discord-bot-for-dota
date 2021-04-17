@@ -1,0 +1,7 @@
+{
+	"prefix": "!",
+	"token": "<yourDiscordBotToken>,
+  "steamKey": "<yourSteamAPIkey>",
+	"channelID": "<discord CHANNEL ID>",
+	"firebase": "<firebasebase.app> link"
+}
